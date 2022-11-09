@@ -5,6 +5,10 @@
  * Fall/2022
  */
 public class Application {
+	/**
+	 * Main execution
+	 * @param args code to be ran
+	 */
 	public static void main(String [] args) {
 
 		ArchaicDictionary dictionary = new ArchaicDictionary();
